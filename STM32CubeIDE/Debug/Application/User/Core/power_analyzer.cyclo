@@ -1,0 +1,4 @@
+../Application/User/Core/power_analyzer.c:32:6:Process_Grid_State	13
+../Application/User/Core/power_analyzer.c:112:6:Validate_Post_Capture	4
+../Application/User/Core/power_analyzer.c:148:7:Calculate_Buffer_MS	2
+../Application/User/Core/power_analyzer.c:178:7:Get_Period_MS	7

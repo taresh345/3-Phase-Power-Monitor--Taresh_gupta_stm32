@@ -1,0 +1,4 @@
+D:/STM32_LCE_INTERNSHIP/MeasurementProject/Core/Src/dac.c:34:6:MX_DAC1_Init	56	static
+D:/STM32_LCE_INTERNSHIP/MeasurementProject/Core/Src/dac.c:83:6:MX_DAC2_Init	56	static
+D:/STM32_LCE_INTERNSHIP/MeasurementProject/Core/Src/dac.c:125:6:HAL_DAC_MspInit	56	static
+D:/STM32_LCE_INTERNSHIP/MeasurementProject/Core/Src/dac.c:227:6:HAL_DAC_MspDeInit	16	static
